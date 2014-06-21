@@ -58,11 +58,11 @@ If you dig HTML Panels you might be interested in
 
 - My **HTML Panels Tip** series:
   - \#10 [Packaging and ZXP installers](http://www.davidebarranca.com/2014/05/html-panels-tips-10-packaging-zxp-installers/)
-  - \#09 [Persistence](HTML Panels Tips: #9 Persistence)
+  - \#09 [Persistence](http://www.davidebarranca.com/2014/02/html-panels-tips-9-persistence/)
   - \#08 [Photoshop Events, take 2](http://www.davidebarranca.com/2014/02/html-panels-tips-8-photoshop-events-pshostadapter-libraries/)
   - \#07 [Photoshop Events, take 1](http://www.davidebarranca.com/2014/02/html-panels-tips-7-events-photoshopregisterevent-photoshopcallback/)
   - \#06 [Integrating Topcoat CSS](http://www.davidebarranca.com/2014/02/html-panels-tips-6-integrating-topcoat-css/)
-  - \#05 [Passing Objects from JSX to the Panel](HTML Panels Tips: #5 passing Objects from JSX to HTML)
+  - \#05 [Passing Objects from JSX to the Panel](http://www.davidebarranca.com/2014/02/html-panels-tips-5-passing-objects-from-jsx-to-html-json/)
   - \#04 [Passing Objects from the Panel to JSX](http://www.davidebarranca.com/2014/01/html-panels-tips-4-passing-objects-from-html-to-jsx/)
   - \#03 [Passing simple data from JSX to the Panel](http://www.davidebarranca.com/2014/01/html-panels-tips-3-get-data-from-jsx-send-it-to-html/)
   - \#02 [Including multiple JSX](http://www.davidebarranca.com/2014/01/html-panels-tips-2-including-multiple-jsx/)
