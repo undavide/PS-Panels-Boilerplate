@@ -45,7 +45,7 @@
 				</Lifecycle>
 				<UI>
 					<Type>Panel</Type>
-					<Menu>Extension-Name</Menu>
+					<Menu>Topcoat Boilerplate</Menu>
 					<Geometry>
 						<Size>
 							<Height>300</Height>
