@@ -4,7 +4,6 @@
 var themeManager = (function() {
 	'use strict';
 
-	
 	// Convert the Color object to string in hexadecimal format; 
 	function toHex(color, delta) {
 
@@ -51,29 +50,33 @@ var themeManager = (function() {
 		var themeShade = "",
 			redShade = appSkinInfo.panelBackgroundColor.color.red;
 
-		if (redShade > 200) { // exact: 214 (D6D6D6)
+		if (redShade > 200) { // exact: 214 (#D6D6D6)
 			themeShade = "lightlight"; // might be useful in the future
 			// this is where font color and other theme dependent stuff could go
 			$("#topcoat").attr("href", "css/topcoat-desktop-lightlight.min.css");
 		
-		} else if (redShade > 180) { // exact: 184 (B8B8B8)
+		} else if (redShade > 180) { // exact: 184 (#B8B8B8)
 			themeShade = "light";
 			$("#topcoat").attr("href", "css/topcoat-desktop-light.min.css");
 
-		} else if (redShade > 80) { // exact: 83 (535353)
+		} else if (redShade > 80) { // exact: 83 (#535353)
 			themeShade = "dark";
 			$("#topcoat").attr("href", "css/topcoat-desktop-dark.min.css");
 		
-		} else if (redShade > 50) { // exact: 52 (343434)
+		} else if (redShade > 50) { // exact: 52 (#343434)
 			themeShade = "darkdark";
 			$("#topcoat").attr("href", "css/topcoat-desktop-darkdark.min.css");
 		}
 
-		// Override Topcoat CSS with general settings such as Fonts, etc.
-		// I use an empty CSS file 
-		var styleId = "topcoat-host";
+		// Override Topcoat CSS with Font settings (family, size and color)
+		// original idea by David Deraedt
+		// Here I use an empty CSS file
+		var styleId = "topcoat-host",
+			fontColor = themeShade.match(/light/) ? "#202020" : "#E6E6E6"
+
 		addRule(styleId, "body", "font-family:" + appSkinInfo.baseFontFamily );
 		addRule(styleId, "body", "font-size:" + appSkinInfo.baseFontSize + "px");
+		addRule(styleId, "body", "color:" + fontColor);
 	}
 
 	// Callback for the CSInterface.THEME_COLOR_CHANGED_EVENT
