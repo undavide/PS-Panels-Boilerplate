@@ -1,0 +1,261 @@
+.marqueeRectTool {
+	background-image: url('../icons/lightTheme/marqueeRectTool.png');
+}
+
+.marqueeEllipTool {
+	background-image: url('../icons/lightTheme/marqueeEllipTool.png');
+}
+
+.marqueeSingleRowTool {
+	background-image: url('../icons/lightTheme/marqueeSingleRowTool.png');
+}
+
+.marqueeSingleColumnTool {
+	background-image: url('../icons/lightTheme/marqueeSingleColumnTool.png');
+}
+
+.lassoTool {
+	background-image: url('../icons/lightTheme/lassoTool.png');
+}
+
+.polySelTool {
+	background-image: url('../icons/lightTheme/polySelTool.png');
+}
+
+.magneticLassoTool {
+	background-image: url('../icons/lightTheme/magneticLassoTool.png');
+}
+
+.cropTool {
+	background-image: url('../icons/lightTheme/cropTool.png');
+}
+
+.perspectiveCropTool {
+	background-image: url('../icons/lightTheme/perspectiveCropTool.png');
+}
+
+.sliceTool {
+	background-image: url('../icons/lightTheme/sliceTool.png');
+}
+
+.sliceSelectTool {
+	background-image: url('../icons/lightTheme/sliceSelectTool.png');
+}
+
+.moveTool {
+	background-image: url('../icons/lightTheme/moveTool.png');
+}
+
+.quickSelectTool {
+	background-image: url('../icons/lightTheme/quickSelectTool.png');
+}
+
+.magicWandTool {
+	background-image: url('../icons/lightTheme/magicWandTool.png');
+}
+
+.eyedropperTool {
+	background-image: url('../icons/lightTheme/eyedropperTool.png');
+}
+
+/* Escape the '3' */
+.\33 DMaterialSelectTool {
+	background-image: url('../icons/lightTheme/3DMaterialSelectTool.png');
+}
+
+.colorSamplerTool {
+	background-image: url('../icons/lightTheme/colorSamplerTool.png');
+}
+
+.rulerTool {
+	background-image: url('../icons/lightTheme/rulerTool.png');
+}
+
+.textAnnotTool {
+	background-image: url('../icons/lightTheme/textAnnotTool.png');
+}
+
+.countTool {
+	background-image: url('../icons/lightTheme/countTool.png');
+}
+
+.spotHealingBrushTool {
+	background-image: url('../icons/lightTheme/spotHealingBrushTool.png');
+}
+
+.magicStampTool {
+	background-image: url('../icons/lightTheme/magicStampTool.png');
+}
+
+.patchSelection {
+	background-image: url('../icons/lightTheme/patchSelection.png');
+}
+
+.recomposeSelection {
+	background-image: url('../icons/lightTheme/recomposeSelection.png');
+}
+
+.redEyeTool {
+	background-image: url('../icons/lightTheme/redEyeTool.png');
+}
+
+.paintbrushTool {
+	background-image: url('../icons/lightTheme/paintbrushTool.png');
+}
+
+.pencilTool {
+	background-image: url('../icons/lightTheme/pencilTool.png');
+}
+
+.colorReplacementBrushTool {
+	background-image: url('../icons/lightTheme/colorReplacementBrushTool.png');
+}
+
+.wetBrushTool {
+	background-image: url('../icons/lightTheme/wetBrushTool.png');
+}
+
+.cloneStampTool {
+	background-image: url('../icons/lightTheme/cloneStampTool.png');
+}
+
+.patternStampTool {
+	background-image: url('../icons/lightTheme/patternStampTool.png');
+}
+
+.historyBrushTool {
+	background-image: url('../icons/lightTheme/historyBrushTool.png');
+}
+
+.artBrushTool {
+	background-image: url('../icons/lightTheme/artBrushTool.png');
+}
+
+.eraserTool {
+	background-image: url('../icons/lightTheme/eraserTool.png');
+}
+
+.backgroundEraserTool {
+	background-image: url('../icons/lightTheme/backgroundEraserTool.png');
+}
+
+.magicEraserTool {
+	background-image: url('../icons/lightTheme/magicEraserTool.png');
+}
+
+.gradientTool {
+	background-image: url('../icons/lightTheme/gradientTool.png');
+}
+
+.bucketTool {
+	background-image: url('../icons/lightTheme/bucketTool.png');
+}
+
+/* Escape the '3' */
+.\33 DMaterialDropTool {
+	background-image: url('../icons/lightTheme/3DMaterialDropTool.png');
+}
+
+.blurTool {
+	background-image: url('../icons/lightTheme/blurTool.png');
+}
+
+.sharpenTool {
+	background-image: url('../icons/lightTheme/sharpenTool.png');
+}
+
+.smudgeTool {
+	background-image: url('../icons/lightTheme/smudgeTool.png');
+}
+
+.dodgeTool {
+	background-image: url('../icons/lightTheme/dodgeTool.png');
+}
+
+.burnInTool {
+	background-image: url('../icons/lightTheme/burnInTool.png');
+}
+
+.saturationTool {
+	background-image: url('../icons/lightTheme/saturationTool.png');
+}
+
+.penTool {
+	background-image: url('../icons/lightTheme/penTool.png');
+}
+
+.freeformPenTool {
+	background-image: url('../icons/lightTheme/freeformPenTool.png');
+}
+
+.addKnotTool {
+	background-image: url('../icons/lightTheme/addKnotTool.png');
+}
+
+.deleteKnotTool {
+	background-image: url('../icons/lightTheme/deleteKnotTool.png');
+}
+
+.convertKnotTool {
+	background-image: url('../icons/lightTheme/convertKnotTool.png');
+}
+
+.typeCreateOrEditTool {
+	background-image: url('../icons/lightTheme/typeCreateOrEditTool.png');
+}
+
+.typeVerticalCreateOrEditTool {
+	background-image: url('../icons/lightTheme/typeVerticalCreateOrEditTool.png');
+}
+
+.typeCreateMaskTool {
+	background-image: url('../icons/lightTheme/typeCreateMaskTool.png');
+}
+
+.typeVerticalCreateMaskTool {
+	background-image: url('../icons/lightTheme/typeVerticalCreateMaskTool.png');
+}
+
+.pathComponentSelectTool {
+	background-image: url('../icons/lightTheme/pathComponentSelectTool.png');
+}
+
+.directSelectTool {
+	background-image: url('../icons/lightTheme/directSelectTool.png');
+}
+
+.rectangleTool {
+	background-image: url('../icons/lightTheme/rectangleTool.png');
+}
+
+.roundedRectangleTool {
+	background-image: url('../icons/lightTheme/roundedRectangleTool.png');
+}
+
+.ellipseTool {
+	background-image: url('../icons/lightTheme/ellipseTool.png');
+}
+
+.polygonTool {
+	background-image: url('../icons/lightTheme/polygonTool.png');
+}
+
+.lineTool {
+	background-image: url('../icons/lightTheme/lineTool.png');
+}
+
+.customShapeTool {
+	background-image: url('../icons/lightTheme/customShapeTool.png');
+}
+
+.handTool {
+	background-image: url('../icons/lightTheme/handTool.png');
+}
+
+.rotateTool {
+	background-image: url('../icons/lightTheme/rotateTool.png');
+}
+
+.zoomTool {
+	background-image: url('../icons/lightTheme/zoomTool.png');
+}
