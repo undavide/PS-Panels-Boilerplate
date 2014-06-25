@@ -1,0 +1,26 @@
+body {
+    margin: 10px;
+}
+
+#content {
+    margin-right:auto;
+    margin-left:auto;
+    vertical-align:middle;
+    width:100%;
+}
+
+.ps-icon{
+	width: 34px; 
+	height: 26px;
+	position:relative;
+	display:inline-block;
+	vertical-align:top;
+	overflow:hidden;
+	background-position: 50% 50%;
+	background-origin:content-box;
+	background-repeat: no-repeat;
+}
+
+.inline {
+	display: inline;
+}
