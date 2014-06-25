@@ -14,6 +14,9 @@ You'll find here:
 
 I use to [blog](http://davidebarranca.com/category/code/html-panels/) about Photoshop extensions, so chances are you'll find in this repository some code I've written about on my website.
 
+## Repository Content
+Please see this [INDEX.md](src/INDEX.md) for a list of all the content. Refer to each folder's readme for extra info.
+
 ## Installation
 There's nothing to actually *install*; in the `/src` you'll mostly find panels (i.e. folders that uses the following naming convention: `com.undavide.panelName`).
 
@@ -48,10 +51,9 @@ takes effect.
 - Restart your Mac, or log out the current user and re-log in.
 For more information, [see here](http://hints.macworld.com/article.php?story=20130908042828630).
 
-## Content
-Please see this [index](src/INDEX.md) for a list of all the content. Refer to each folder's readme for extra info.
+---
 
-## Links
+## External Links
 If you dig HTML Panels you might be interested in
 
 - The [Adobe CEP](https://github.com/Adobe-CEP/CEP-Resources) page on GitHub, listing lot of resources.
