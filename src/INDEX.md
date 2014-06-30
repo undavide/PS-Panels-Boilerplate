@@ -15,4 +15,9 @@ A Panel containing all 65 Tools (Marquee, Brush... you name it). I've built it t
 ## Photoshop Tools #2
 **com.undavide.tools2**
 
-Evolution (and replacement) of **#1** - uses Toggle Buttons and automatically picks the tool that is currently selected when the panel is first opened. See the [Readme](com.undavide.tools2/README.md).
+Evolution (and replacement) of **Photoshop Tools #1** - uses Toggle Buttons and automatically picks the tool that is currently selected when the panel is first opened. See the [Readme](com.undavide.tools2/README.md).
+
+## Persistent
+**com.undavide.persistent1**
+
+Code for a panel that demonstrates the use of GUI Persistence between sessions. See the [Readme](com.undavide.persistent1/README.md) for more info.

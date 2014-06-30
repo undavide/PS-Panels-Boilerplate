@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<ExtensionList>
+    <Extension Id="com.undavide.persistent1">
+        <HostList>
+           <Host Name="PHXS" Port="8088"/> 
+        </HostList>
+    </Extension>
+</ExtensionList>

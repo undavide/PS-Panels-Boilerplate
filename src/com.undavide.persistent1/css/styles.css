@@ -1,0 +1,9 @@
+#content {
+    margin-right:auto;
+    margin-left:auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 100px;
+    width:100%;
+    background-color: red;
+}
