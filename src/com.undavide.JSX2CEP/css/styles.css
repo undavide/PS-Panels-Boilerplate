@@ -1,0 +1,29 @@
+/*Your styles*/
+
+ body {
+    margin: 10px;
+}
+
+
+#content {
+    margin-right:auto;
+    margin-left:auto;
+    vertical-align:middle;
+    width:100%;
+}
+
+
+#btn_triggerEvent{
+	position: absolute; 
+	bottom: 20px; 
+	left: 10px; 
+	right: 10px;
+}
+
+textarea {
+	position: absolute; 
+	top: 50px; 
+	bottom: 60px; 
+	left: 10px; 
+	right: 10px;
+}
