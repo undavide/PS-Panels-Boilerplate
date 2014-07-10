@@ -12,8 +12,8 @@ Switch on the Persistent switch before, then play with the other ones; when you 
 ## Installation
 Please see the shared [installation instruction](../../README.md#installation) (and don't forget the Debug flag!)
 
-##Code
-Please refer to [this blogpost](http://www.davidebarranca.com/2014/02/html-panels-tips-9-persistence/) for a commented version of the code
+##Related Blogpost
+Please refer to [this article](http://www.davidebarranca.com/2014/02/html-panels-tips-9-persistence/) for a commented version of the code
 
 
 ## Changelog

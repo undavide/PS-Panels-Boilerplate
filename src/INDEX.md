@@ -21,3 +21,9 @@ Evolution (and replacement) of **Photoshop Tools #1** - uses Toggle Buttons and 
 **com.undavide.persistent1**
 
 Code for a panel that demonstrates the use of GUI Persistence between sessions. See the [Readme](com.undavide.persistent1/README.md) for more info.
+
+## ExtendScript CEP Events
+**com.undavide.JSX2CEP**
+
+Demo of the CEP5 ExternalObject library that allows ExtendScript to dispatch Custom CSXSEvents to the HTML Panel.
+See the [Readme](com.undavide.JSX2CEP/README.md) for more info.
