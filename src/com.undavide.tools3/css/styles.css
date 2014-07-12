@@ -1,0 +1,104 @@
+body {
+    margin: 10px;
+    -webkit-user-select: none;
+}
+
+#content {
+    margin-right:auto;
+    margin-left:auto;
+    vertical-align:middle;
+    width:100%;
+}
+
+.ps-icon{
+	width: 34px; 
+	height: 26px;
+	position:relative;
+	display:inline-block;
+	vertical-align:top;
+	overflow:hidden;
+	background-position: 50% 50%;
+	background-origin:content-box;
+	background-repeat: no-repeat;
+}
+
+.editButton {
+	width: 16px; 
+	height: 24px;
+	float: right;
+	display:inline-block;
+	/*vertical-align:top;
+	overflow:hidden;*/
+	background-position: 50% 50%;
+	background-origin:content-box;
+	background-repeat: no-repeat;
+}
+
+.devTool {
+	display: inline-block;
+	position: relative;
+	background-color: rgba(0,0,0,.2);
+	margin: 2px;
+	padding: 8px 0 0 6px;
+	border: 1px solid rgba();
+	width: 50px;
+	height: 34px;
+	border-radius: 4px;
+}
+
+.close-x {
+	margin-left: 4px;
+	color:red;
+	cursor: pointer;
+}
+
+.dev .close-x {
+	color: green;
+	font-weight: bold;
+}
+
+hr {
+	margin: 10px 0 10px 0;
+    border: 0;
+    height: 1px;
+    background-image: -webkit-linear-gradient(left, rgba(255,255,255,0), rgba(255,255,255,0.75), rgba(255,255,255,0)); 
+    background-image:    -moz-linear-gradient(left, rgba(255,255,255,0), rgba(255,255,255,0.75), rgba(255,255,255,0)); 
+    background-image:     -ms-linear-gradient(left, rgba(255,255,255,0), rgba(255,255,255,0.75), rgba(255,255,255,0)); 
+    background-image:      -o-linear-gradient(left, rgba(255,255,255,0), rgba(255,255,255,0.75), rgba(255,255,255,0)); 
+}
+
+.title-container {
+	display: block;
+	margin-bottom: 15px;
+}
+
+.used-unused {
+	text-align: left; 
+	margin:10px; 
+	opacity: 0.8;
+}
+
+.button-container {
+	margin-top:12px; 
+	overflow: hidden; /* to keep the div height */
+}
+
+.tools-container {
+	/*display: -webkit-flex;
+	-webkit-flex-flow: row wrap;
+	-webkit-justify-content: space-around;*/
+}
+
+.tool {
+	display: inline-block;
+	margin: 1px;
+}
+
+.all-button {
+	float: right;
+	margin-left: 10px;
+}
+
+input {
+	width: 100%;
+}

@@ -1,0 +1,70 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+
+<!-- Will contain Topcoat original CSS href, injected with -->
+<link id="topcoat" rel="stylesheet"/>
+<!-- Topcoat overrides (Font, etc) -->
+<link id="topcoat-host" rel="stylesheet" href="css/topcoat-host.css"/>
+<!-- Will contain Icons CSS - to be changed at runtime when Theme Event is fired -->
+<link id="icons" rel="stylesheet"/>
+<!-- Actual Panel styling -->
+<link rel="stylesheet" href="css/styles.css"/>
+
+<title></title>
+</head>
+
+<body ng-app="ToolsApp">
+
+	<div id="content" ng-controller="ToolsController">
+
+		<form action="">
+			
+			<button class="topcoat-icon-button" ng-click="editButtonHandler()" title="{{toolTip}}" style="float:right;">
+				<span class="editButton editIcon"></span>
+			</button>
+			
+			<h2>{{ panelTitle }}</h2>
+			
+			<div ng-show="showDev" class="dev">
+
+				<div class="title-container">
+					<input type="text" ng-model="panelTitle" class="topcoat-text-input" id="titleInput">
+				</div>
+
+				<ps:tools ng-repeat="tool in unusedTools" type="{{tool.stringID}}" idx="{{$index}}" tag="+"></ps:tools>
+
+				<div class="button-container">
+					<button class="topcoat-button all-button" ng-click="selectAllTools()">
+						Add ALL
+					</button>
+					<button class="topcoat-button all-button" ng-click="deselectAllTools()">
+						Remove ALL
+					</button>
+				</div>
+
+				<p class="used-unused">&#9650;&nbsp;&nbsp;UNUSED [{{ unusedTools.length }}]</p>
+
+				<hr>
+				
+				<p class="used-unused">&#9660;&nbsp;&nbsp;USED [{{ usedTools.length }}]</p>
+
+			</div>
+			
+			<div class="tools-container">
+	    		<ps:tools ng-repeat="tool in usedTools" type="{{tool.stringID}}" idx="{{$index}}" tag="X"></ps:tools>
+			</div>
+
+		</form>
+		
+	</div>
+	
+	<script src="js/libs/CSInterface.js"></script>
+	<script src="js/libs/jquery-2.0.2.min.js"></script>
+
+	<script src="js/libs/angular.min.js"></script>
+	<script src="js/app.js"></script>
+
+</body>
+</html>

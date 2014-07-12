@@ -1,0 +1,262 @@
+[
+	{
+		"stringID": "marqueeRectTool",
+		"toolTip": "Rectangular Marquee Tool"
+	},
+	{
+		"stringID": "marqueeEllipTool",
+		"toolTip": "Elliptical Marquee Tool"
+	},
+	{
+		"stringID": "marqueeSingleRowTool",
+		"toolTip": "Single Row Marquee Tool"
+	},
+	{
+		"stringID": "marqueeSingleColumnTool",
+		"toolTip": "Single Column Marquee Tool"
+	},
+	{
+		"stringID": "lassoTool",
+		"toolTip": "Lasso Tool"
+	},
+	{
+		"stringID": "polySelTool",
+		"toolTip": "Polygonal Lasso Tool"
+	},
+	{
+		"stringID": "magneticLassoTool",
+		"toolTip": "Magnetic Lasso Tool"
+	},
+	{
+		"stringID": "cropTool",
+		"toolTip": "Crop Tool"
+	},
+	{
+		"stringID": "perspectiveCropTool", 
+		"toolTip": "Perspective Crop Tool"
+	},
+	{
+		"stringID": "sliceTool",
+		"toolTip": "Slice Tool"
+	},
+	{
+		"stringID": "sliceSelectTool",
+		"toolTip": "Slice Select Tool"
+	},
+	{
+		"stringID": "moveTool",
+		"toolTip": "Move Tool"
+	},
+	{
+		"stringID": "quickSelectTool",
+		"toolTip": "Quick Select Tool"
+	},
+	{
+		"stringID": "magicWandTool",
+		"toolTip": "Magic Wand Tool"
+	},
+	{
+		"stringID": "eyedropperTool",
+		"toolTip": "Eyedropper Tool"
+	},
+	{
+		"stringID": "3DMaterialSelectTool",
+		"toolTip": "3D Material Select Tool"
+	},
+	{
+		"stringID": "colorSamplerTool",
+		"toolTip": "Color Sampler Tool"
+	},
+	{
+		"stringID": "rulerTool",
+		"toolTip": "Ruler Tool"
+	},
+	{
+		"stringID": "textAnnotTool",
+		"toolTip": "Note Tool"
+	},
+	{
+		"stringID": "countTool",
+		"toolTip": "Count Tool"
+	},
+	{
+		"stringID": "spotHealingBrushTool",
+		"toolTip": "Spot Healing Brush Tool"
+	},
+	{
+		"stringID": "magicStampTool",
+		"toolTip": "Healing Brush Tool"
+	},
+	{
+		"stringID": "patchSelection",
+		"toolTip": "Patch Tool"
+	},
+	{
+		"stringID": "recomposeSelection",
+		"toolTip": "Content-Aware Move Tool"
+	},
+	{
+		"stringID": "redEyeTool",
+		"toolTip": "Red Eye Tool"
+	},
+	{
+		"stringID": "paintbrushTool",
+		"toolTip": "Brush Tool"
+	},
+	{
+		"stringID": "pencilTool",
+		"toolTip": "Pencil Tool"
+	},
+	{
+		"stringID": "colorReplacementBrushTool",
+		"toolTip": "Color Replacement Tool"
+	},
+	{
+		"stringID": "wetBrushTool",
+		"toolTip": "Mixer Brush Tool"
+	},
+	{
+		"stringID": "cloneStampTool",
+		"toolTip": "Clone Stamp Tool"
+	},
+	{
+		"stringID": "patternStampTool",
+		"toolTip": "Pattern Stamp Tool"
+	},
+	{
+		"stringID": "historyBrushTool",
+		"toolTip": "History Brush Tool"
+	},
+	{
+		"stringID": "artBrushTool",
+		"toolTip": "Art History Brush Tool"
+	},
+	{
+		"stringID": "eraserTool",
+		"toolTip": "Eraser Tool"
+	},
+	{
+		"stringID": "backgroundEraserTool",
+		"toolTip": "Background Eraser Tool"
+	},
+	{
+		"stringID": "magicEraserTool",
+		"toolTip": "Magic Eraser Tool"
+	},
+	{
+		"stringID": "gradientTool",
+		"toolTip": "Gradient Tool"
+	},
+	{
+		"stringID": "bucketTool",
+		"toolTip": "Paint Bucket Tool"
+	},
+	{
+		"stringID": "3DMaterialDropTool",
+		"toolTip": "3D Material Drop Tool"
+	},
+	{
+		"stringID": "blurTool",
+		"toolTip": "Blur Tool"
+	},
+	{
+		"stringID": "sharpenTool",
+		"toolTip": "Sharpen Tool"
+	},
+	{
+		"stringID": "smudgeTool",
+		"toolTip": "Smudge Tool"
+	},
+	{
+		"stringID": "dodgeTool",
+		"toolTip": "Dodge Tool"
+	},
+	{
+		"stringID": "burnInTool",
+		"toolTip": "Burn Tool"
+	},
+	{
+		"stringID": "saturationTool",
+		"toolTip": "Sponge Tool"
+	},
+	{
+		"stringID": "penTool",
+		"toolTip": "Pen Tool"
+	},
+	{
+		"stringID": "freeformPenTool",
+		"toolTip": "Freeform Pen Tool"
+	},
+	{
+		"stringID": "addKnotTool",
+		"toolTip": "Add Anchor Point Tool"
+	},
+	{
+		"stringID": "deleteKnotTool",
+		"toolTip": "Delete Anchor Point Tool"
+	},
+	{
+		"stringID": "convertKnotTool",
+		"toolTip": "Convert Point Tool"
+	},
+	{
+		"stringID": "typeCreateOrEditTool",
+		"toolTip": "Horizontal Type Tool"
+	},
+	{
+		"stringID": "typeVerticalCreateOrEditTool",
+		"toolTip": "Vertical Type Tool"
+	},
+	{
+		"stringID": "typeCreateMaskTool",
+		"toolTip": "Horizontal Type Mask Tool"
+	},
+	{
+		"stringID": "typeVerticalCreateMaskTool",
+		"toolTip": "Vertical Type Mask Tool"
+	},
+	{
+		"stringID": "pathComponentSelectTool",
+		"toolTip": "Path Selection Tool"
+	},
+	{
+		"stringID": "directSelectTool",
+		"toolTip": "Direct Selection Tool"
+	},
+	{
+		"stringID": "rectangleTool",
+		"toolTip": "Rectangle Tool"
+	},
+	{
+		"stringID": "roundedRectangleTool",
+		"toolTip": "Rounded Rectangle Tool"
+	},
+	{
+		"stringID": "ellipseTool",
+		"toolTip": "Ellipse Tool"
+	},
+	{
+		"stringID": "polygonTool",
+		"toolTip": "Polygon Tool"
+	},
+	{
+		"stringID": "lineTool",
+		"toolTip": "Line Tool"
+	},
+	{
+		"stringID": "customShapeTool",
+		"toolTip": "Custom Shape Tool"
+	},
+	{
+		"stringID": "handTool",
+		"toolTip": "Hand Tool"
+	},
+	{
+		"stringID": "rotateTool",
+		"toolTip": "Rotate View Tool"
+	},
+	{
+		"stringID": "zoomTool",
+		"toolTip": "Zoom Tool"
+	}
+]

@@ -1,0 +1,269 @@
+/* EDIT BUTTON */
+
+.editIcon {
+	background-image: url('../icons/darkTheme/edit.png');
+}
+
+/* TOOLS BUTTONS */
+
+.marqueeRectTool {
+	background-image: url('../icons/darkTheme/marqueeRectTool.png');
+}
+
+.marqueeEllipTool {
+	background-image: url('../icons/darkTheme/marqueeEllipTool.png');
+}
+
+.marqueeSingleRowTool {
+	background-image: url('../icons/darkTheme/marqueeSingleRowTool.png');
+}
+
+.marqueeSingleColumnTool {
+	background-image: url('../icons/darkTheme/marqueeSingleColumnTool.png');
+}
+
+.lassoTool {
+	background-image: url('../icons/darkTheme/lassoTool.png');
+}
+
+.polySelTool {
+	background-image: url('../icons/darkTheme/polySelTool.png');
+}
+
+.magneticLassoTool {
+	background-image: url('../icons/darkTheme/magneticLassoTool.png');
+}
+
+.cropTool {
+	background-image: url('../icons/darkTheme/cropTool.png');
+}
+
+.perspectiveCropTool {
+	background-image: url('../icons/darkTheme/perspectiveCropTool.png');
+}
+
+.sliceTool {
+	background-image: url('../icons/darkTheme/sliceTool.png');
+}
+
+.sliceSelectTool {
+	background-image: url('../icons/darkTheme/sliceSelectTool.png');
+}
+
+.moveTool {
+	background-image: url('../icons/darkTheme/moveTool.png');
+}
+
+.quickSelectTool {
+	background-image: url('../icons/darkTheme/quickSelectTool.png');
+}
+
+.magicWandTool {
+	background-image: url('../icons/darkTheme/magicWandTool.png');
+}
+
+.eyedropperTool {
+	background-image: url('../icons/darkTheme/eyedropperTool.png');
+}
+
+/* Escape the '3' */
+.\33 DMaterialSelectTool {
+	background-image: url('../icons/darkTheme/3DMaterialSelectTool.png');
+}
+
+.colorSamplerTool {
+	background-image: url('../icons/darkTheme/colorSamplerTool.png');
+}
+
+.rulerTool {
+	background-image: url('../icons/darkTheme/rulerTool.png');
+}
+
+.textAnnotTool {
+	background-image: url('../icons/darkTheme/textAnnotTool.png');
+}
+
+.countTool {
+	background-image: url('../icons/darkTheme/countTool.png');
+}
+
+.spotHealingBrushTool {
+	background-image: url('../icons/darkTheme/spotHealingBrushTool.png');
+}
+
+.magicStampTool {
+	background-image: url('../icons/darkTheme/magicStampTool.png');
+}
+
+.patchSelection {
+	background-image: url('../icons/darkTheme/patchSelection.png');
+}
+
+.recomposeSelection {
+	background-image: url('../icons/darkTheme/recomposeSelection.png');
+}
+
+.redEyeTool {
+	background-image: url('../icons/darkTheme/redEyeTool.png');
+}
+
+.paintbrushTool {
+	background-image: url('../icons/darkTheme/paintbrushTool.png');
+}
+
+.pencilTool {
+	background-image: url('../icons/darkTheme/pencilTool.png');
+}
+
+.colorReplacementBrushTool {
+	background-image: url('../icons/darkTheme/colorReplacementBrushTool.png');
+}
+
+.wetBrushTool {
+	background-image: url('../icons/darkTheme/wetBrushTool.png');
+}
+
+.cloneStampTool {
+	background-image: url('../icons/darkTheme/cloneStampTool.png');
+}
+
+.patternStampTool {
+	background-image: url('../icons/darkTheme/patternStampTool.png');
+}
+
+.historyBrushTool {
+	background-image: url('../icons/darkTheme/historyBrushTool.png');
+}
+
+.artBrushTool {
+	background-image: url('../icons/darkTheme/artBrushTool.png');
+}
+
+.eraserTool {
+	background-image: url('../icons/darkTheme/eraserTool.png');
+}
+
+.backgroundEraserTool {
+	background-image: url('../icons/darkTheme/backgroundEraserTool.png');
+}
+
+.magicEraserTool {
+	background-image: url('../icons/darkTheme/magicEraserTool.png');
+}
+
+.gradientTool {
+	background-image: url('../icons/darkTheme/gradientTool.png');
+}
+
+.bucketTool {
+	background-image: url('../icons/darkTheme/bucketTool.png');
+}
+
+/* Escape the '3' */
+.\33 DMaterialDropTool {
+	background-image: url('../icons/darkTheme/3DMaterialDropTool.png');
+}
+
+.blurTool {
+	background-image: url('../icons/darkTheme/blurTool.png');
+}
+
+.sharpenTool {
+	background-image: url('../icons/darkTheme/sharpenTool.png');
+}
+
+.smudgeTool {
+	background-image: url('../icons/darkTheme/smudgeTool.png');
+}
+
+.dodgeTool {
+	background-image: url('../icons/darkTheme/dodgeTool.png');
+}
+
+.burnInTool {
+	background-image: url('../icons/darkTheme/burnInTool.png');
+}
+
+.saturationTool {
+	background-image: url('../icons/darkTheme/saturationTool.png');
+}
+
+.penTool {
+	background-image: url('../icons/darkTheme/penTool.png');
+}
+
+.freeformPenTool {
+	background-image: url('../icons/darkTheme/freeformPenTool.png');
+}
+
+.addKnotTool {
+	background-image: url('../icons/darkTheme/addKnotTool.png');
+}
+
+.deleteKnotTool {
+	background-image: url('../icons/darkTheme/deleteKnotTool.png');
+}
+
+.convertKnotTool {
+	background-image: url('../icons/darkTheme/convertKnotTool.png');
+}
+
+.typeCreateOrEditTool {
+	background-image: url('../icons/darkTheme/typeCreateOrEditTool.png');
+}
+
+.typeVerticalCreateOrEditTool {
+	background-image: url('../icons/darkTheme/typeVerticalCreateOrEditTool.png');
+}
+
+.typeCreateMaskTool {
+	background-image: url('../icons/darkTheme/typeCreateMaskTool.png');
+}
+
+.typeVerticalCreateMaskTool {
+	background-image: url('../icons/darkTheme/typeVerticalCreateMaskTool.png');
+}
+
+.pathComponentSelectTool {
+	background-image: url('../icons/darkTheme/pathComponentSelectTool.png');
+}
+
+.directSelectTool {
+	background-image: url('../icons/darkTheme/directSelectTool.png');
+}
+
+.rectangleTool {
+	background-image: url('../icons/darkTheme/rectangleTool.png');
+}
+
+.roundedRectangleTool {
+	background-image: url('../icons/darkTheme/roundedRectangleTool.png');
+}
+
+.ellipseTool {
+	background-image: url('../icons/darkTheme/ellipseTool.png');
+}
+
+.polygonTool {
+	background-image: url('../icons/darkTheme/polygonTool.png');
+}
+
+.lineTool {
+	background-image: url('../icons/darkTheme/lineTool.png');
+}
+
+.customShapeTool {
+	background-image: url('../icons/darkTheme/customShapeTool.png');
+}
+
+.handTool {
+	background-image: url('../icons/darkTheme/handTool.png');
+}
+
+.rotateTool {
+	background-image: url('../icons/darkTheme/rotateTool.png');
+}
+
+.zoomTool {
+	background-image: url('../icons/darkTheme/zoomTool.png');
+}
