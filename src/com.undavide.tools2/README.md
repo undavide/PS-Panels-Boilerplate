@@ -2,6 +2,7 @@ Photoshop Tools Panel #2
 ========================
 
 **Evolution of the #1** - Contains all 65 selectable tools in the Photoshop CC 2014 Tools palette.
+Available on Adobe Add-ons as [PS Tools 0.1.0](https://creative.adobe.com/addons/products/2603) (now updated).
 
 ![screenshot](img/screenshot.png)
 

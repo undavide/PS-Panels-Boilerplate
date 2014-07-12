@@ -1,7 +1,7 @@
 Photoshop Tools Panel #1
 ========================
 
-Contains all 65 selectable tools in the Photoshop CC 2014 Tools palette
+Contains all 65 selectable tools in the Photoshop CC 2014 Tools palette. 
 
 ![screenshot](img/screenshot.png)
 
