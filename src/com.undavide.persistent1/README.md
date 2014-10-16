@@ -6,7 +6,7 @@ Demonstration of GUI persistence via PhotoshopPersistent Event dispatching.
 ![screenshot](img/screenshot.png)
 
 ## Features
-Switch on some switched, then close and reopen the panel - they reset.
+Switch on some switches, then close and reopen the panel - they reset.
 Switch on the Persistent switch before, then play with the other ones; when you close and reopen the panel, the same configuration appears.
 
 ## Installation
