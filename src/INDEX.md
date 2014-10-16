@@ -2,6 +2,11 @@ Content Index
 =============
 As follows a list of all the content - please see each project's readme.
 
+## Flyout Menu
+**com.undavide.flyout**
+
+Demoes how to implement a flyout menu in HTML Panels and its click handler (nested menus are broken in PS CC 2014.2.0, but work on AE). See the [Readme](com.undavide.flyout/README.md).
+
 ## Topcoat
 **com.undavide.topcoat**
 
