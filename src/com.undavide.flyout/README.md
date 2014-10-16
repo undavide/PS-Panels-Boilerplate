@@ -19,7 +19,7 @@ Demoes:
 Please see the shared [installation instruction](../../README.md#installation) (and don't forget the Debug flag!)
 
 ##Related Blogpost
-Please refer to [this article](http://www.davidebarranca.com/2014/02/html-panels-tips-9-persistence/) for a commented version of the code
+Please refer to [this article](http://www.davidebarranca.com/?p=2732) for a commented version of the code
 
 
 ## Changelog

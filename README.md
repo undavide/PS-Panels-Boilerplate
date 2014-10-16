@@ -14,7 +14,7 @@ You'll find here:
 
 I use to [blog](http://davidebarranca.com/category/code/html-panels/) about Photoshop extensions, so chances are you'll find in this repository some code I've written about on my website.
 
-## Repository Content
+## INDEX - Repository Content
 Please see this [INDEX.md](src/INDEX.md) for a list of all the content. Refer to each folder's readme for extra info.
 
 ## Installation
@@ -59,6 +59,11 @@ If you dig HTML Panels you might be interested in
 - The [Adobe CEP](https://github.com/Adobe-CEP/CEP-Resources) page on GitHub, listing lot of resources.
 
 - My **HTML Panels Tip** series:
+
+  - \#14 [Flyout Menu](http://www.davidebarranca.com/2014/10/html-panels-tips-14-flyout-menu/)
+  - \#13 [Automate ZXP Packaging with Gulp.js](http://www.davidebarranca.com/2014/08/html-panels-tips-13-automate-zxp-packaging-with-gulp-js/)
+  - \#12 [CEP Application Events](http://www.davidebarranca.com/2014/07/html-panels-tips-12-cep-application-events/)
+  - \#11 [CEP Events (ExternalObject)](http://www.davidebarranca.com/2014/07/html-panels-tips-11-externalobject-cep-events/)
   - \#10 [Packaging and ZXP installers](http://www.davidebarranca.com/2014/05/html-panels-tips-10-packaging-zxp-installers/)
   - \#09 [Persistence](http://www.davidebarranca.com/2014/02/html-panels-tips-9-persistence/)
   - \#08 [Photoshop Events, take 2](http://www.davidebarranca.com/2014/02/html-panels-tips-8-photoshop-events-pshostadapter-libraries/)
