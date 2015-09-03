@@ -2,6 +2,11 @@ Content Index
 =============
 As follows a list of all the content - please see each project's readme.
 
+## PhotoshopJSONCallback
+**com.undavide.PhotoshopJSONCallback**
+
+Shows the changes in the way a panel listen to Photoshop Events - PhotoshopCallback is deprecated in CC2015 and will be removed in CC20116. See the [Readme](com.undavide.PhotoshopJSONCallback/README.md).
+
 ## Flyout Menu
 **com.undavide.flyout**
 
