@@ -1,4 +1,4 @@
- ePS-Panels-Boilerplate
+PS-Panels-Boilerplate
 =====================
 
 Boilerplate and Demo code for Adobe Photoshop CC (and following) HTML Panels.
