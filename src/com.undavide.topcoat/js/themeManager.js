@@ -63,7 +63,7 @@ var themeManager = (function() {
 			themeShade = "dark";
 			$("#topcoat").attr("href", "css/topcoat-desktop-dark.min.css");
 		
-		} else if (redShade > 50) { // exact: 52 (#343434)
+		} else { // exact: 52 (#343434)
 			themeShade = "darkdark";
 			$("#topcoat").attr("href", "css/topcoat-desktop-darkdark.min.css");
 		}
