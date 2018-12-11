@@ -1,0 +1,28 @@
+.app-header_container {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  flex-direction: row;
+  top: 0;
+  background: black;
+  color: white;
+  height: 50px;
+  font-size: 18px;
+  font-weight: bold;
+  width: 100%;
+}
+
+.app-header_title {
+  width: 100%;
+  text-align: left;
+  padding: 0 2%;
+}
+
+.app-button {
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: green;
+  color: white;
+  font-weight: bold;
+}
