@@ -3,7 +3,7 @@ Adobe CEP Panel using Angular 7
 
 Demo of the bulding a Adobe CEP Extension using Angular 7 as the UI framework. This approach allows us to build reusable components which can be used across multiple Adobe extensions.
 
-![screenshot](img/screenshot.png)
+![screenshot](img/screenshot.PNG)
 
 ## Features
 This is just a showcase of building Adobe Extension panels using latest frameworks like Angular 7, React, Vue.
