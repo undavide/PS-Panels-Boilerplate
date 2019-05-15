@@ -60,6 +60,17 @@ If you dig HTML Panels you might be interested in
 
 - My **HTML Panels Tip** series:
 
+  - \#25 [CC 2018 Survival Guide](https://www.davidebarranca.com/2017/10/html-panel-tips-25-cc-2018-survival-guide/)
+  - \#24 [Fixing ZXP Timestamping errors](https://www.davidebarranca.com/2017/04/html-panel-tips-24-fixing-zxp-timestamping-errors/)
+  - \#23 [JavascriptObfuscator API Gulp.js Plugin](https://www.davidebarranca.com/2017/02/html-panel-tips-23-javascriptobfuscator-api-gulp-js-plugin/)
+  - \#22 [Protecting your Code](https://www.davidebarranca.com/2016/07/html-panel-tips-22-protecting-your-code/)
+  - \#21 [Photoshop CC 2015.5 survival guide](https://www.davidebarranca.com/2016/06/html-panel-tips-21-photoshop-cc2015-5-2016-survival-guide/)
+  - \#20 [Javascript Frameworks](https://www.davidebarranca.com/2016/06/html-panel-tips-20-javascript-frameworks-angularjs-vuejs/)
+  - \#19 [CC2015.1 (CEP6.1) Node.js Fixes](https://www.davidebarranca.com/2015/12/html-panel-tips-19-cc2015-1-cep6-1-node-js-fixes/)
+  - \#18 [Photoshop JSON Callback](https://www.davidebarranca.com/2015/09/html-panel-tips-18-photoshop-json-callback/)
+  - \#17 [CC2015 Survival Guide](https://www.davidebarranca.com/2015/06/html-panel-tips-17-cc2015-survival-guide/)
+  - \#16 [AngularJS Binding bug patch](https://www.davidebarranca.com/2014/12/html-panels-tips-16-angularjs-input-binding-bug-patch/)
+  - \#15 [Asynchronous vs. Synchronous](https://www.davidebarranca.com/2014/12/html-panels-tips-15-asynchronous-vs-synchronous-evalscript/)
   - \#14 [Flyout Menu](http://www.davidebarranca.com/2014/10/html-panels-tips-14-flyout-menu/)
   - \#13 [Automate ZXP Packaging with Gulp.js](http://www.davidebarranca.com/2014/08/html-panels-tips-13-automate-zxp-packaging-with-gulp-js/)
   - \#12 [CEP Application Events](http://www.davidebarranca.com/2014/07/html-panels-tips-12-cep-application-events/)
